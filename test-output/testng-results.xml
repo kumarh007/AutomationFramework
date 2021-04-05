@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[In Links Page : https://en.wikipedia.org/wiki/Oracle_Database |Keyword  Occurred  :73]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://www.youtube.com/oracle/ |Keyword  Occurred  :45]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://www.oracle.com/products/ |Keyword  Occurred  :61]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm |Keyword  Occurred  :201]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://www.britannica.com/topic/Oracle-Corporation |Keyword  Occurred  :15]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://in.linkedin.com/company/oracle |Keyword  Occurred  :0]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://en.wikipedia.org/wiki/Oracle_Corporation |Keyword  Occurred  :330]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://www.merriam-webster.com/dictionary/oracle |Keyword  Occurred  :7]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://blogs.oracle.com/jobsatoracle/the-6-step-plan-to-getting-hired-at-oracle |Keyword  Occurred  :24]]>
+    </line>
+    <line>
+      <![CDATA[In Links Page : https://www.oracle.com/ |Keyword  Occurred  :47]]>
+    </line>
+    <line>
+      <![CDATA[*******Displaying From File*******:Belagavi]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Belgaum]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Belgaum]]>
+    </line>
+    <line>
+      <![CDATA[https://belagavi.nic.in/en/history/]]>
+    </line>
+    <line>
+      <![CDATA[https://belagavitimes.com/2020/08/10/how-is-belgaum-city-to-live-in/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.yatra.com/india-tourism/belgaum/how-to-reach]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Belgaum_(Lok_Sabha_constituency)]]>
+    </line>
+    <line>
+      <![CDATA[https://belagavi.nic.in/en/]]>
+    </line>
+    <line>
+      <![CDATA[https://districts.ecourts.gov.in/belagavi]]>
+    </line>
+    <line>
+      <![CDATA[https://districts.ecourts.gov.in/belagavi-onlinerecruitment]]>
+    </line>
+    <line>
+      <![CDATA[*******Displaying From File*******:Bengaluru]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Bangalore]]>
+    </line>
+    <line>
+      <![CDATA[https://www.revv.co.in/blogs/places-to-visit-in-bangalore/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.numbeo.com/cost-of-living/in/Bangalore]]>
+    </line>
+    <line>
+      <![CDATA[https://www.smartertravel.com/tips-bangalore-dangers-warnings-stay-safe/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.numbeo.com/crime/in/Bangalore]]>
+    </line>
+    <line>
+      <![CDATA[https://www.bengaluruairport.com/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.britannica.com/place/Bangalore-India]]>
+    </line>
+    <line>
+      <![CDATA[https://www.thehindu.com/news/cities/bangalore/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.thehindu.com/news/cities/bangalore/coronavirus-bengaluru-police-intensify-patrolling-to-enforce-new-restrictions/article34230102.ece]]>
+    </line>
+    <line>
+      <![CDATA[*******Displaying From File*******:Mangaluru]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Mangalore]]>
+    </line>
+    <line>
+      <![CDATA[https://in.musafir.com/Blog/why-visit-mangalore-rome-of-the-east.aspx]]>
+    </line>
+    <line>
+      <![CDATA[https://www.transindiatravels.com/karnataka/mangalore/tourist-attractions-in-mangalore/]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Mangalorean_cuisine]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Mangalore]]>
+    </line>
+    <line>
+      <![CDATA[https://www.indiatoday.in/india/story/mangaluru-man-dies-desecrating-koragajja-temple-friends-surrender-1786386-2021-04-02]]>
+    </line>
+    <line>
+      <![CDATA[https://www.thehindu.com/news/cities/Mangalore/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.britannica.com/place/Mangaluru]]>
+    </line>
+    <line>
+      <![CDATA[https://timesofindia.indiatimes.com/city/mangalore]]>
+    </line>
+    <line>
+      <![CDATA[*******Displaying From File*******:Udupi]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Udupi]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Udupi]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Udupi_cuisine]]>
+    </line>
+    <line>
+      <![CDATA[https://www.india.com/travel/articles/udupi-a-coastal-town-worth-visiting-in-karnataka-3649963/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.itslife.in/travel/shopping-and-eating-out-in-udupi]]>
+    </line>
+    <line>
+      <![CDATA[https://udupi.nic.in/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.karnataka.com/udupi/]]>
+    </line>
+    <line>
+      <![CDATA[https://www.tripadvisor.in/Tourism-g737164-Udupi_Udupi_District_Karnataka-Vacations.html]]>
+    </line>
+    <line>
+      <![CDATA[https://www.karnatakatourism.org/tour-item/udupi/]]>
+    </line>
+    <line>
+      <![CDATA[*******Displaying From File*******:Dharwad]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Dharwad]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Dharwad_district]]>
+    </line>
+    <line>
+      <![CDATA[https://www.yatra.com/distance-between/distance-from-dharwad-to-bengaluru.html]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/List_of_cities_in_Karnataka_by_population]]>
+    </line>
+    <line>
+      <![CDATA[https://www.iitdh.ac.in/contact.php]]>
+    </line>
+    <line>
+      <![CDATA[https://en.wikipedia.org/wiki/Dharwad_district]]>
+    </line>
+    <line>
+      <![CDATA[https://www.iitdh.ac.in/dharwad.php]]>
+    </line>
+    <line>
+      <![CDATA[http://www.dharwad.nic.in/en/index.aspx]]>
+    </line>
+    <line>
+      <![CDATA[https://www.kud.ac.in/]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-04-05T06:07:02Z" name="AssessmentSuite" finished-at="2021-04-05T06:09:58Z" duration-ms="176422">
+    <groups>
+    </groups>
+    <test started-at="2021-04-05T06:07:02Z" name="GoogleSearchTest" finished-at="2021-04-05T06:09:58Z" duration-ms="176422">
+      <class name="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:49Z" name="init" finished-at="2021-04-05T11:39:49Z" duration-ms="454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:49Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:51Z" duration-ms="1787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Belagavi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[*******Displaying From File*******:Belagavi]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Belgaum]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Belgaum]]>
+            </line>
+            <line>
+              <![CDATA[https://belagavi.nic.in/en/history/]]>
+            </line>
+            <line>
+              <![CDATA[https://belagavitimes.com/2020/08/10/how-is-belgaum-city-to-live-in/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.yatra.com/india-tourism/belgaum/how-to-reach]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Belgaum_(Lok_Sabha_constituency)]]>
+            </line>
+            <line>
+              <![CDATA[https://belagavi.nic.in/en/]]>
+            </line>
+            <line>
+              <![CDATA[https://districts.ecourts.gov.in/belagavi]]>
+            </line>
+            <line>
+              <![CDATA[https://districts.ecourts.gov.in/belagavi-onlinerecruitment]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:51Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:53Z" duration-ms="1877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bengaluru]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[*******Displaying From File*******:Bengaluru]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Bangalore]]>
+            </line>
+            <line>
+              <![CDATA[https://www.revv.co.in/blogs/places-to-visit-in-bangalore/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.numbeo.com/cost-of-living/in/Bangalore]]>
+            </line>
+            <line>
+              <![CDATA[https://www.smartertravel.com/tips-bangalore-dangers-warnings-stay-safe/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.numbeo.com/crime/in/Bangalore]]>
+            </line>
+            <line>
+              <![CDATA[https://www.bengaluruairport.com/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.britannica.com/place/Bangalore-India]]>
+            </line>
+            <line>
+              <![CDATA[https://www.thehindu.com/news/cities/bangalore/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.thehindu.com/news/cities/bangalore/coronavirus-bengaluru-police-intensify-patrolling-to-enforce-new-restrictions/article34230102.ece]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:53Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:54Z" duration-ms="1517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mangaluru]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[*******Displaying From File*******:Mangaluru]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Mangalore]]>
+            </line>
+            <line>
+              <![CDATA[https://in.musafir.com/Blog/why-visit-mangalore-rome-of-the-east.aspx]]>
+            </line>
+            <line>
+              <![CDATA[https://www.transindiatravels.com/karnataka/mangalore/tourist-attractions-in-mangalore/]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Mangalorean_cuisine]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Mangalore]]>
+            </line>
+            <line>
+              <![CDATA[https://www.indiatoday.in/india/story/mangaluru-man-dies-desecrating-koragajja-temple-friends-surrender-1786386-2021-04-02]]>
+            </line>
+            <line>
+              <![CDATA[https://www.thehindu.com/news/cities/Mangalore/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.britannica.com/place/Mangaluru]]>
+            </line>
+            <line>
+              <![CDATA[https://timesofindia.indiatimes.com/city/mangalore]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:54Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:56Z" duration-ms="1768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Udupi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[*******Displaying From File*******:Udupi]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Udupi]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Udupi]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Udupi_cuisine]]>
+            </line>
+            <line>
+              <![CDATA[https://www.india.com/travel/articles/udupi-a-coastal-town-worth-visiting-in-karnataka-3649963/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.itslife.in/travel/shopping-and-eating-out-in-udupi]]>
+            </line>
+            <line>
+              <![CDATA[https://udupi.nic.in/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.karnataka.com/udupi/]]>
+            </line>
+            <line>
+              <![CDATA[https://www.tripadvisor.in/Tourism-g737164-Udupi_Udupi_District_Karnataka-Vacations.html]]>
+            </line>
+            <line>
+              <![CDATA[https://www.karnatakatourism.org/tour-item/udupi/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay@7188af83]" started-at="2021-04-05T11:39:56Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:58Z" duration-ms="1990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dharwad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[*******Displaying From File*******:Dharwad]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Dharwad]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Dharwad_district]]>
+            </line>
+            <line>
+              <![CDATA[https://www.yatra.com/distance-between/distance-from-dharwad-to-bengaluru.html]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/List_of_cities_in_Karnataka_by_population]]>
+            </line>
+            <line>
+              <![CDATA[https://www.iitdh.ac.in/contact.php]]>
+            </line>
+            <line>
+              <![CDATA[https://en.wikipedia.org/wiki/Dharwad_district]]>
+            </line>
+            <line>
+              <![CDATA[https://www.iitdh.ac.in/dharwad.php]]>
+            </line>
+            <line>
+              <![CDATA[http://www.dharwad.nic.in/en/index.aspx]]>
+            </line>
+            <line>
+              <![CDATA[https://www.kud.ac.in/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+      </class> <!-- googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay -->
+      <class name="googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword@5b247367]" started-at="2021-04-05T11:37:02Z" name="init" finished-at="2021-04-05T11:37:08Z" duration-ms="6528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testToverifyGoogleForTop10Results(java.lang.String)[pri:0, instance:googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword@5b247367]" started-at="2021-04-05T11:37:08Z" name="testToverifyGoogleForTop10Results" data-provider="testdata" finished-at="2021-04-05T11:39:49Z" duration-ms="160471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Oracle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[In Links Page : https://en.wikipedia.org/wiki/Oracle_Database |Keyword  Occurred  :73]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://www.youtube.com/oracle/ |Keyword  Occurred  :45]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://www.oracle.com/products/ |Keyword  Occurred  :61]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm |Keyword  Occurred  :201]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://www.britannica.com/topic/Oracle-Corporation |Keyword  Occurred  :15]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://in.linkedin.com/company/oracle |Keyword  Occurred  :0]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://en.wikipedia.org/wiki/Oracle_Corporation |Keyword  Occurred  :330]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://www.merriam-webster.com/dictionary/oracle |Keyword  Occurred  :7]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://blogs.oracle.com/jobsatoracle/the-6-step-plan-to-getting-hired-at-oracle |Keyword  Occurred  :24]]>
+            </line>
+            <line>
+              <![CDATA[In Links Page : https://www.oracle.com/ |Keyword  Occurred  :47]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testToverifyGoogleForTop10Results -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword@5b247367]" started-at="2021-04-05T11:39:58Z" name="tearDown" finished-at="2021-04-05T11:39:58Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword -->
+    </test> <!-- GoogleSearchTest -->
+  </suite> <!-- AssessmentSuite -->
+</testng-results>

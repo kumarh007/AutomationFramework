@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AssessmentSuite">
+<listeners><listener class-name="com.assessment.utility.TestNGListener" /></listeners>
+<parameter name="browserName" value="CHROME"></parameter>
+  <test thread-count="1" name="GoogleSearchTest" parallel="classes">
+  
+    <classes>
+    <class name="googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword"/>
+      <class name="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay"/> 
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

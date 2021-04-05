@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="googletests.Tc1">
+        <methods>
+          <include name="init"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- googletests.Tc1 -->
+      <class name="googletests.Tc2">
+        <methods>
+          <include name="Ytest3"/>
+          <include name="Ytest4"/>
+        </methods>
+      </class> <!-- googletests.Tc2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

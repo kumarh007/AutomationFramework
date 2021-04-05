@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [AssessmentSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="browserName" value="CHROME"/>
+  <listeners>
+    <listener class-name="com.assessment.utility.TestNGListener"/>
+  </listeners>
+  <test parallel="classes" name="GoogleSearchTest(failed)">
+    <classes>
+      <class name="googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword">
+        <methods>
+          <include name="init"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- googletests.Verify_GooglePageTop10ResultsLinkAndOpenLinkandCountKeyword -->
+      <class name="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+        <methods>
+          <include name="testToverifyGoogleForTop10Results"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay -->
+    </classes>
+  </test> <!-- GoogleSearchTest(failed) -->
+</suite> <!-- Failed suite [AssessmentSuite] -->

@@ -1,0 +1,537 @@
+2021-04-04 17:09:32,811 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:12:06,248 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:14:37,705 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:14:37,955 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 18:14:39,978 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:36:24,427 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:36:24,683 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 18:36:27,372 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:36:30,964 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 18:36:30,977 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 18:36:31,086 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:32,072 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 18:36:32,120 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 18:36:32,260 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:41,093 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 18:36:41,264 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 18:36:41,409 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:42,174 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 18:36:42,182 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 18:36:42,436 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:56,667 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 18:36:56,676 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 18:36:56,902 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:58,240 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 18:36:58,269 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 18:36:58,421 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:36:59,235 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 18:36:59,270 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 18:36:59,344 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:37:01,608 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 18:37:01,902 - AutomationFramework -INFO - Window Tile after switch: Oracle | LinkedIn
+2021-04-04 18:37:02,104 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:37:06,449 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 18:37:06,503 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 18:37:06,728 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:37:49,829 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 18:37:49,869 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 18:37:50,033 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:58:02,332 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:58:02,647 - AutomationFramework -INFO - Entering searchKeyWord:Belagavi
+2021-04-04 18:58:04,105 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:58:04,574 - AutomationFramework -INFO - Entering searchKeyWord:Bengaluru
+2021-04-04 18:58:06,093 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:58:06,485 - AutomationFramework -INFO - Entering searchKeyWord:Mangaluru
+2021-04-04 18:58:07,672 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:58:08,046 - AutomationFramework -INFO - Entering searchKeyWord:Udupi
+2021-04-04 18:58:09,997 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:58:10,376 - AutomationFramework -INFO - Entering searchKeyWord:Dharwad
+2021-04-04 18:58:11,821 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:59:43,432 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 18:59:43,682 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 18:59:45,862 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 18:59:49,409 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 18:59:49,418 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 18:59:49,507 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:59:50,464 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 18:59:50,528 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 18:59:50,637 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 18:59:59,426 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 18:59:59,672 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 18:59:59,801 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:00,554 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 19:00:00,563 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 19:00:00,819 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:09,688 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 19:00:09,698 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 19:00:09,877 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:11,054 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 19:00:11,184 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 19:00:11,377 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:12,156 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 19:00:12,191 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 19:00:12,326 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:14,652 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 19:00:14,664 - AutomationFramework -INFO - Window Tile after switch: Sign Up | LinkedIn
+2021-04-04 19:00:29,805 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:32,975 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 19:00:32,994 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 19:00:33,081 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:00:45,412 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 19:00:45,422 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 19:00:45,605 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:03:35,155 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 19:03:35,414 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 19:03:37,734 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 19:03:41,483 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 19:03:41,500 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 19:03:41,602 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:03:42,761 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 19:03:42,846 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 19:03:43,043 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:03:51,471 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 19:03:51,680 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 19:03:51,813 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:03:52,699 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 19:03:52,709 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 19:03:52,818 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:06,386 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 19:04:06,422 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 19:04:06,644 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:07,820 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 19:04:07,946 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 19:04:08,085 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:08,901 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 19:04:08,946 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 19:04:09,101 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:11,080 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 19:04:11,099 - AutomationFramework -INFO - Window Tile after switch: Security Verification | LinkedIn
+2021-04-04 19:04:26,219 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:29,358 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 19:04:29,379 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 19:04:29,467 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:04:40,797 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 19:04:40,805 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 19:04:41,001 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:05:48,549 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 19:05:48,816 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 19:05:51,335 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 19:05:55,557 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 19:05:55,570 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 19:05:55,677 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:05:56,959 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 19:05:57,022 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 19:05:57,162 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:02,888 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 19:06:03,155 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 19:06:03,311 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:04,112 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 19:06:04,121 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 19:06:04,379 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:23,886 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 19:06:23,902 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 19:06:24,083 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:25,314 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 19:06:25,450 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 19:06:25,639 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:26,652 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 19:06:26,734 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 19:06:26,857 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:29,123 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 19:06:29,134 - AutomationFramework -INFO - Window Tile after switch: Sign Up | LinkedIn
+2021-04-04 19:06:44,217 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:47,436 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 19:06:47,451 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 19:06:47,538 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:06:59,133 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 19:06:59,153 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 19:06:59,381 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:08:08,041 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 19:08:08,401 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 19:08:10,951 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 19:08:14,769 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 19:08:14,778 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 19:08:14,904 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:08:16,083 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 19:08:16,151 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 19:08:16,264 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:08:24,674 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 19:08:24,888 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 19:08:25,025 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:08:25,774 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 19:08:25,780 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 19:08:25,878 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:01,788 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 19:09:01,796 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 19:09:02,028 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:03,181 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 19:09:03,300 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 19:09:03,426 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:04,172 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 19:09:04,225 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 19:09:04,304 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:06,231 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 19:09:06,252 - AutomationFramework -INFO - Window Tile after switch: Security Verification | LinkedIn
+2021-04-04 19:09:21,378 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:24,622 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 19:09:24,636 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 19:09:24,725 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:09:46,171 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 19:09:46,204 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 19:09:46,359 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:58:42,363 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 19:58:42,644 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 19:58:44,855 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 19:58:48,326 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 19:58:48,343 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 19:58:48,434 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:58:49,463 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 19:58:49,534 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 19:58:49,646 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:58:57,832 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 19:58:57,967 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 19:58:58,134 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:58:58,831 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 19:58:58,838 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 19:58:59,082 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:59:25,976 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 19:59:25,987 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 19:59:26,225 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:59:27,467 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 19:59:27,522 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 19:59:27,665 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:59:28,322 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 19:59:28,356 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 19:59:28,447 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:59:30,723 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 19:59:30,734 - AutomationFramework -INFO - Window Tile after switch: Sign Up | LinkedIn
+2021-04-04 19:59:45,841 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 19:59:49,141 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 19:59:49,157 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 19:59:49,248 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:00:00,946 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 20:00:00,962 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 20:00:01,126 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:02:34,150 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:02:34,487 - AutomationFramework -INFO - Entering searchKeyWord:Belagavi
+2021-04-04 20:02:36,158 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:02:36,430 - AutomationFramework -INFO - Writting to FileBelagavi
+2021-04-04 20:02:36,432 - AutomationFramework -INFO - Writting CompletedBelagavi
+2021-04-04 20:02:36,434 - AutomationFramework -INFO - *******Reading  From File*******:Belagavi
+2021-04-04 20:02:36,643 - AutomationFramework -INFO - Entering searchKeyWord:Bengaluru
+2021-04-04 20:02:38,367 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:02:38,600 - AutomationFramework -INFO - Writting to FileBengaluru
+2021-04-04 20:02:38,602 - AutomationFramework -INFO - Writting CompletedBengaluru
+2021-04-04 20:02:38,603 - AutomationFramework -INFO - *******Reading  From File*******:Bengaluru
+2021-04-04 20:02:38,789 - AutomationFramework -INFO - Entering searchKeyWord:Mangaluru
+2021-04-04 20:02:40,026 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:02:40,221 - AutomationFramework -INFO - Writting to FileMangaluru
+2021-04-04 20:02:40,223 - AutomationFramework -INFO - Writting CompletedMangaluru
+2021-04-04 20:02:40,233 - AutomationFramework -INFO - *******Reading  From File*******:Mangaluru
+2021-04-04 20:02:40,391 - AutomationFramework -INFO - Entering searchKeyWord:Udupi
+2021-04-04 20:02:42,693 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:02:42,892 - AutomationFramework -INFO - Writting to FileUdupi
+2021-04-04 20:02:42,893 - AutomationFramework -INFO - Writting CompletedUdupi
+2021-04-04 20:02:42,895 - AutomationFramework -INFO - *******Reading  From File*******:Udupi
+2021-04-04 20:02:43,074 - AutomationFramework -INFO - Entering searchKeyWord:Dharwad
+2021-04-04 20:02:44,748 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:02:44,958 - AutomationFramework -INFO - Writting to FileDharwad
+2021-04-04 20:02:44,960 - AutomationFramework -INFO - Writting CompletedDharwad
+2021-04-04 20:02:44,969 - AutomationFramework -INFO - *******Reading  From File*******:Dharwad
+2021-04-04 20:02:57,939 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:02:58,279 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 20:03:00,232 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:03:03,787 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 20:03:03,807 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 20:03:03,908 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:05,033 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 20:03:05,043 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 20:03:05,138 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:14,149 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 20:03:14,345 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 20:03:14,474 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:49,870 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 20:03:49,878 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 20:03:50,034 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:51,260 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 20:03:51,291 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 20:03:51,439 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:52,372 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 20:03:52,430 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 20:03:52,626 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:53,426 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 20:03:53,459 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 20:03:53,543 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:03:55,791 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 20:03:55,799 - AutomationFramework -INFO - Window Tile after switch: Sign Up | LinkedIn
+2021-04-04 20:04:10,904 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:04:14,134 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 20:04:14,152 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 20:04:14,241 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:04:25,299 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 20:04:25,325 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 20:04:25,496 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:05:48,877 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:05:49,134 - AutomationFramework -INFO - Entering searchKeyWord:Oracle
+2021-04-04 20:05:51,576 - AutomationFramework -INFO - Clicked Enter
+2021-04-04 20:05:55,018 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/
+2021-04-04 20:05:55,044 - AutomationFramework -INFO - Window Tile after switch: Oracle | Integrated Cloud Applications and Platform Services
+2021-04-04 20:05:55,142 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:05:56,227 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle
+2021-04-04 20:05:56,290 - AutomationFramework -INFO - Window Tile after switch: Oracle - Wikipedia
+2021-04-04 20:05:56,391 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:05,041 - AutomationFramework -INFO - opening new link in tab :https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm
+2021-04-04 20:06:05,223 - AutomationFramework -INFO - Window Tile after switch: Introduction to the Oracle Database
+2021-04-04 20:06:05,356 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:42,921 - AutomationFramework -INFO - opening new link in tab :https://www.britannica.com/topic/Oracle-Corporation
+2021-04-04 20:06:42,929 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation | Definition, History, & Facts | Britannica
+2021-04-04 20:06:43,101 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:43,927 - AutomationFramework -INFO - opening new link in tab :https://www.yourdictionary.com/oracle
+2021-04-04 20:06:43,938 - AutomationFramework -INFO - Window Tile after switch: Oracle Meaning | Best 16 Definitions of Oracle
+2021-04-04 20:06:44,193 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:45,043 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Corporation
+2021-04-04 20:06:45,090 - AutomationFramework -INFO - Window Tile after switch: Oracle Corporation - Wikipedia
+2021-04-04 20:06:45,288 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:46,129 - AutomationFramework -INFO - opening new link in tab :https://en.wikipedia.org/wiki/Oracle_Database
+2021-04-04 20:06:46,157 - AutomationFramework -INFO - Window Tile after switch: Oracle Database - Wikipedia
+2021-04-04 20:06:46,259 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:48,723 - AutomationFramework -INFO - opening new link in tab :https://in.linkedin.com/company/oracle
+2021-04-04 20:06:48,884 - AutomationFramework -INFO - Window Tile after switch: Oracle | LinkedIn
+2021-04-04 20:06:49,015 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:06:52,178 - AutomationFramework -INFO - opening new link in tab :https://www.oracle.com/products/
+2021-04-04 20:06:52,208 - AutomationFramework -INFO - Window Tile after switch: Products and Services | Hardware, Software, Services | Oracle
+2021-04-04 20:06:52,304 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:07:04,184 - AutomationFramework -INFO - opening new link in tab :https://bstrategyhub.com/top-competitors-of-oracle/
+2021-04-04 20:07:04,193 - AutomationFramework -INFO - Window Tile after switch: Top 10 Oracle Competitors
+2021-04-04 20:07:04,374 - AutomationFramework -INFO - Closed link after verification
+2021-04-04 20:10:17,216 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:11:52,405 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:25:12,805 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:27:35,580 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:29:46,499 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 20:29:48,721 - AutomationFramework -INFO - Writting to FileBelagavi
+2021-04-04 20:29:48,723 - AutomationFramework -INFO - Writting CompletedBelagavi
+2021-04-04 20:29:48,725 - AutomationFramework -INFO - *******Reading  From File*******:Belagavi
+2021-04-04 20:29:51,146 - AutomationFramework -INFO - Writting to FileBengaluru
+2021-04-04 20:29:51,148 - AutomationFramework -INFO - Writting CompletedBengaluru
+2021-04-04 20:29:51,155 - AutomationFramework -INFO - *******Reading  From File*******:Bengaluru
+2021-04-04 20:29:53,117 - AutomationFramework -INFO - Writting to FileMangaluru
+2021-04-04 20:29:53,118 - AutomationFramework -INFO - Writting CompletedMangaluru
+2021-04-04 20:29:53,126 - AutomationFramework -INFO - *******Reading  From File*******:Mangaluru
+2021-04-04 20:29:55,469 - AutomationFramework -INFO - Writting to FileUdupi
+2021-04-04 20:29:55,470 - AutomationFramework -INFO - Writting CompletedUdupi
+2021-04-04 20:29:55,472 - AutomationFramework -INFO - *******Reading  From File*******:Udupi
+2021-04-04 20:29:57,521 - AutomationFramework -INFO - Writting to FileDharwad
+2021-04-04 20:29:57,523 - AutomationFramework -INFO - Writting CompletedDharwad
+2021-04-04 20:29:57,524 - AutomationFramework -INFO - *******Reading  From File*******:Dharwad
+2021-04-04 20:30:26,967 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 21:51:24,263 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 21:51:56,456 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 21:54:10,954 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:00:08,871 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:02:20,443 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:03:22,942 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:04:07,293 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:07:24,810 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:14:16,970 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:19:30,898 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:20:36,793 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:34:56,843 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:36:00,568 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:36:51,873 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:38:42,676 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:54:56,149 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 22:58:37,118 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:08:18,656 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:10:24,755 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:24:13,958 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:24:13,967 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:42:54,106 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:46:16,823 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:54:26,772 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:54:26,911 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:58:08,825 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-04 23:58:09,139 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:08:34,688 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:08:35,008 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:08:35,168 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:27:50,364 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:27:51,352 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:27:52,259 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:30:20,189 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:30:20,317 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:30:20,522 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:32:52,401 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:32:52,452 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:32:52,863 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:37:13,429 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:42:43,198 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:43:59,131 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 00:59:05,748 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 01:05:29,507 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 01:05:29,532 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:05:44,670 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 01:05:45,432 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:06:00,459 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 01:06:00,991 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:06:16,045 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 01:06:16,604 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:06:31,665 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 01:06:32,062 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:06:47,107 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 01:06:48,611 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 01:08:47,790 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 01:08:47,808 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,477 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,496 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,506 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,512 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,523 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:10:17,560 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 01:14:19,998 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 01:14:20,016 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,217 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,244 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,257 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,262 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,266 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 01:15:37,311 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:18:39,615 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:18:39,633 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,817 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,822 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,825 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,832 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,835 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:19:42,858 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:21:34,731 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:21:34,747 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,673 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,686 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,692 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,696 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,700 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:22:30,730 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:25:40,934 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:25:40,946 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,925 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,932 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,937 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,942 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,947 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:26:37,973 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:27:21,014 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:27:21,038 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:27:21,058 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:27:21,063 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:27:24,327 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:27:26,658 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:27:27,141 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:27:27,491 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:28:19,617 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 10:28:26,736 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Failed
+2021-04-05 10:28:27,507 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:29:01,983 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:29:02,000 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:29:02,454 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:29:02,457 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:29:05,123 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:29:05,925 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:29:06,850 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:29:07,445 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:30:23,585 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:31:38,602 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:31:38,616 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,205 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,210 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,214 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,218 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,221 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:33:55,245 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:34:26,039 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:34:26,063 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,666 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,671 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,673 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,676 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,678 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:37:24,706 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:39:32,597 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:39:32,622 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,356 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,360 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,365 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,367 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,371 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:41:21,398 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:47:10,966 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:47:10,978 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:34,148 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:49:34,150 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:35,938 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:36,286 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:36,587 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:36,879 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:49:37,203 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 10:51:25,801 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:51:25,848 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:27,527 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 10:53:27,529 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:29,532 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:31,508 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:33,447 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:35,612 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 10:53:35,991 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 11:06:47,161 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:06:47,176 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:43,408 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:08:43,410 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:45,432 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:47,294 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:47,631 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:47,937 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:08:48,251 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 11:19:50,594 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:19:50,617 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,632 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,635 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,637 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,639 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,642 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:22:43,665 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 11:31:13,890 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:31:13,904 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:49,165 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:33:49,168 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:50,912 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:52,918 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:54,562 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:56,582 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:33:56,930 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 11:37:08,597 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:37:08,613 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:49,534 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:39:49,536 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:51,324 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:53,202 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:54,720 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:56,489 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:39:58,498 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 11:43:20,515 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:43:20,523 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:19,409 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 11:45:19,411 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:21,305 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:23,231 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:25,112 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:26,940 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 11:45:27,296 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest
+2021-04-05 12:02:03,142 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 12:02:03,154 - AutomationFramework -INFO - testToverifyGooglePageTop10ResultsLinkAndOpenLinkandCountKeyword: Test Execution Started
+2021-04-05 12:04:17,790 - AutomationFramework -INFO - Launched Browser:https://www.google.com
+2021-04-05 12:04:17,792 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 12:04:20,041 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 12:04:20,437 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 12:04:20,733 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 12:04:21,022 - AutomationFramework -INFO - testToverifyGoogleForTop10Results: Test Execution Started
+2021-04-05 12:04:21,362 - AutomationFramework -INFO - Test Suite Execution FinishedGoogleSearchTest

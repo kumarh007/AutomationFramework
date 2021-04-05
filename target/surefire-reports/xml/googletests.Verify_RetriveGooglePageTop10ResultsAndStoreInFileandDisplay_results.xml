@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoogleSearchTest"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.554">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testToverifyGoogleForTop10Results"
+                time="0.289"
+                classname="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+            </testcase>
+            <testcase
+                name="testToverifyGoogleForTop10Results"
+                time="0.324"
+                classname="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+            </testcase>
+            <testcase
+                name="testToverifyGoogleForTop10Results"
+                time="0.296"
+                classname="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+            </testcase>
+            <testcase
+                name="testToverifyGoogleForTop10Results"
+                time="0.396"
+                classname="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+            </testcase>
+            <testcase
+                name="testToverifyGoogleForTop10Results"
+                time="2.249"
+                classname="googletests.Verify_RetriveGooglePageTop10ResultsAndStoreInFileandDisplay">
+            </testcase>
+</testsuite>
