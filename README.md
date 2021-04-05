@@ -11,6 +11,10 @@ Execution Steps
 5.After execution successful we can see file output of testcase on in folder
     Output file path: /AutomationFramework/output
     ![image](https://user-images.githubusercontent.com/3955161/113551470-54ba3800-9612-11eb-88ad-ad3e318ad527.png)
+    
+6.Emailable Test Report
+![image](https://user-images.githubusercontent.com/3955161/113551588-892df400-9612-11eb-88d6-1dfb756dfe7a.png)
+
 
 
 
