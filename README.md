@@ -1,7 +1,7 @@
 # AutomationFramework
 
 Execution Steps:
-1.Please clone project
+1.Please clone project https://github.com/kumarh007/AutomationFramework.git 
 
 
 2.After successful cloning move to project folder where pom.xml 
